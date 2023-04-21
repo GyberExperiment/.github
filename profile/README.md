@@ -4,7 +4,7 @@
 
 текст об организации
 
-[Рекомендации](recommendations.md)
+[Рекомендации](https://github.com/OpenDevCommune/.github/blob/main/recommendations.md)
 
 <!--
 
