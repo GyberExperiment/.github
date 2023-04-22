@@ -26,7 +26,7 @@ As part of the internship, each participant receives community crypto-tokens tha
 
 We are looking for talented and motivated people willing to participate in research and development of projects based on open technologies and software.
 
-[Рекомендации](https://github.com/OpenDevCommune/.github/blob/main/recommendations.md)
+[Recommendations](https://github.com/OpenDevCommune/.github/blob/main/recommendations.md)
 
 <!--
 
