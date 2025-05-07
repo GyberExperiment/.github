@@ -91,6 +91,7 @@
 ## 🔥 Активность коммитов
 
 ![GitHub Contribution Calendar](https://ghchart.rshah.org/themacroeconomicdao)
+![GitHub Contribution Calendar](https://ghchart.rshah.org/gyberexperiment)
 
 ## 🌟 Почему стоит присоединиться к нам
 
