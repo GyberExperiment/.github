@@ -1,103 +1,85 @@
+## Create the future with us! Welcome to Gybernaty!
 
+We are an open developer community where ideas become reality. Here you will find like-minded people who can help you realize your projects and unlock your potential. This is an association of people who are passionate about technology and striving for new discoveries! We create open source projects, research current technologies and help each other realize their ideas. Here you can find a platform for research, development and exchange of experience in completely different areas of the IT industry. Join us to become a part of the movement. Here you will find not only a team that will help you in the implementation of projects, but also real friends with whom you can share your ideas and successes.
 
-```markdown:/Users/Gyber/git-docs/README.md
-# 🚀 Gybernaty: Создаем будущее вместе!
+<div id="header" align="center">
 
-<div align="center">
-  <img src="https://sun9-31.userapi.com/impg/-iRRU9522BX6DnuHPo39OoG76vopxGrQx1qFjA/Niuli_zEqNU.jpg?size=1280x910&quality=95&sign=c46165f9c5a2785c2b12f6d3ed6cee9e&type=album" width="800"/> 
+<img src="https://sun9-31.userapi.com/impg/-iRRU9522BX6DnuHPo39OoG76vopxGrQx1qFjA/Niuli_zEqNU.jpg?size=1280x910&quality=95&sign=c46165f9c5a2785c2b12f6d3ed6cee9e&type=album" height="600" width="1200"/>
+
 </div>
 
-## 👋 О нас
+<h6>
 
-Мы — открытое сообщество разработчиков, где идеи становятся реальностью. Здесь вы найдете единомышленников, которые помогут реализовать ваши проекты и раскрыть потенциал. Это объединение людей, увлеченных технологиями и стремящихся к новым открытиям!
+The time when roughly half of the planet carries computing devices in their pockets with processing power that exceeds by several orders of magnitude the power of all computing technology from the past century combined, it is difficult not to call it the era of supercomputers. However, since any machine or computer is always only an extension of humans, it would be more accurate to call this time the era of super communication.
 
-> В эпоху, когда примерно половина планеты носит в карманах вычислительные устройства, мощность которых на несколько порядков превышает мощность всех вычислительных технологий прошлого века вместе взятых, сложно не назвать это эрой суперкомпьютеров. Однако, поскольку любая машина или компьютер всегда является лишь продолжением человека, точнее было бы назвать это время эрой суперкоммуникаций.
+</h6>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEdv1GbekAakxXO8g/giphy.gif" width="800"/> 
+<img src="https://media.giphy.com/media/3oEdv1GbekAakxXO8g/giphy.gif" height="180" width="1200"/>
+
+http://github-readme-streak-stats.herokuapp.com?user=themacroeconomicdao&theme=neon-dark&border_radius=8.5&card_width=1200 ]( https://git.io/streak-stats)
+
+### :hammer_and_wrench: Some Stack :
+
+<div>
+
+<img src=" https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg " title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+
+<img src=" https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg " title="Next" alt="Next " width="40" height="40"/>&nbsp;
+
+<img src=" https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg "  title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+
+<img src=" https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg " title="C" alt="C " width="40" height="40"/>&nbsp;
+
+<img src=" https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg " title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+
+<img src=" https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg " title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+
+<img src=" https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg " title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+
+<img src=" https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg " title="Dart" alt="Dart " width="40" height="40"/>&nbsp;
+
+<img src=" https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg " title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+
+<img src=" https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg " title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+
+<img src=" https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg " title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+
+<img src=" https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg " title="Typescript"  alt="Typescript" width="40" height="40"/>&nbsp;
+
+<img src=" https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg " title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+
+<img src=" https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg " title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+
+<img src=" https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg " title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+
+<img src=" https://github.com/vorillaz/devicons/blob/master/!SVG/cisco.svg " title="Cisco" alt="AWS" width="40" height="40"/>&nbsp;
+
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themacroeconomicdao&theme=neon-dark&border_radius=8.5&card_width=800)](https://git.io/streak-stats)
+<div id="header" align="center">
 
-## 🔍 Чем мы занимаемся
+<img src=" https://media.giphy.com/media/d8iPm91TeShX4kHG69/giphy-downsized-large.gif " height="180" width="1200"/>
 
-- Создаем проекты с открытым исходным кодом
-- Исследуем актуальные технологии
-- Помогаем друг другу реализовывать идеи
-- Предоставляем платформу для исследований и разработки
-- Обмениваемся опытом в различных областях IT-индустрии
-
-## 🛠️ Наш технологический стек
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/cisco.svg" title="Cisco" alt="Cisco" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/d8iPm91TeShX4kHG69/giphy-downsized-large.gif" width="800"/> 
+<div id="badges" align="center">
+
+<a href=" https://medium.com/@themacroeconomicdao ">
+
+<img src=" https://img.shields.io/badge/Medium-%20-orange?logo=medium&logoColor=white?style=plastic " alt="Medium Badge"/>
+
+</a>
+
+<a href=" https://vk.com/superuserfucker ">
+
+<img src=" https://img.shields.io/badge/VK-%20-blue?logo=vk&logoColor=white?style=plastic " alt="VK Badge"/>
+
+</a>
+
+<a href=" https://discord.gg/XuFSY2ESGe ">
+
+<img src=" https://img.shields.io/badge/Discord-%20-blue?logo=discord&logoColor=red?style=plastic " alt="Discord Badge"/>
+
+</a>
+
 </div>
-
-## 🌟 Почему стоит присоединиться к нам
-
-- Найдете команду, которая поможет в реализации проектов
-- Обретете настоящих друзей, с которыми можно делиться идеями и успехами
-- Получите доступ к коллективному опыту и знаниям
-- Станете частью движения, создающего технологии будущего
-
-## 📫 Связаться с нами
-
-<div align="center">
-  <a href="https://medium.com/@themacroeconomicdao">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-  <a href="https://vk.com/superuserfucker">
-    <img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-  </a>
-  <a href="https://discord.gg/XuFSY2ESGe">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-</div>
-
-## 🤝 Как внести свой вклад
-
-1. Форкните репозиторий
-2. Создайте ветку для своих изменений
-3. Отправьте пулл-реквест
-4. Присоединяйтесь к обсуждениям в наших сообществах
-
----
-
-<div align="center">
-  <b>Gybernaty © 2023 | Создаем будущее вместе</b>
-</div>
-```
-
-### Основные улучшения:
-
-- Добавлены эмодзи для визуального выделения разделов
-- Улучшено форматирование и структура документа
-- Исправлены ссылки на изображения и бейджи
-- Добавлены новые разделы: "Чем мы занимаемся", "Почему стоит присоединиться" и "Как внести свой вклад"
-- Улучшены бейджи социальных сетей с использованием стиля for-the-badge
-- Добавлен футер с копирайтом
-- Оптимизирована ширина изображений для лучшего отображения
-- Цитата о суперкомпьютерах выделена для лучшего восприятия
-
-Документ теперь выглядит более профессионально и содержит больше полезной информации для потенциальных участников сообщества.
-
-        
