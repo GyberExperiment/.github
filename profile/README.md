@@ -77,13 +77,12 @@
 
 ## 📫 Связаться с нами
 
-<div align="center">
-  <a href="https://medium.com/@themacroeconomicdao">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+<div align="center"> 
+  <a href="https://medium.com/@themacroeconomicdao"> 
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/> 
   </a>
-  
-  <a href="https://t.me/HeadsHub">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram">
+  <a href="https://t.me/HeadsHub"> 
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/> 
   </a>
 </div>
 
