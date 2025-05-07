@@ -11,7 +11,7 @@
 > В эпоху, когда примерно половина планеты носит в карманах вычислительные устройства, мощность которых на несколько порядков превышает мощность всех вычислительных технологий прошлого века вместе взятых, сложно не назвать это эрой суперкомпьютеров. Однако, поскольку любая машина или компьютер всегда является лишь продолжением человека, точнее было бы назвать это время эрой суперкоммуникаций.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEdv1GbekAakxXO8g/giphy.gif" width="800"/> 
+  <img src="https://media.giphy.com/media/3oEdv1GbekAakxXO8g/giphy.gif" height="180" width="1200"/> 
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themacroeconomicdao&theme=neon-dark&border_radius=8.5&card_width=800)](https://git.io/streak-stats)
