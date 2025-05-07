@@ -57,6 +57,10 @@
   <img src="https://contrib.rocks/image?repo=themacroeconomicdao/repo-name" />
 </a>
 
+## 🔥 Активность коммитов
+
+![GitHub Contribution Calendar](https://ghchart.rshah.org/themacroeconomicdao)
+
 ## 🌟 Почему стоит присоединиться к нам
 
 - Найдете команду, которая поможет в реализации проектов
