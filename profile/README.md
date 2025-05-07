@@ -64,9 +64,7 @@
   <a href="https://medium.com/@themacroeconomicdao">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  <a href="https://vk.com/superuserfucker">
-    <img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-  </a>
+  
   <a href="https://discord.gg/XuFSY2ESGe">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
