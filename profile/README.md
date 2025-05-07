@@ -24,7 +24,7 @@
 > В эпоху, когда примерно половина планеты носит в карманах вычислительные устройства, мощность которых на несколько порядков превышает мощность всех вычислительных технологий прошлого века вместе взятых, сложно не назвать это эрой суперкомпьютеров. Однако, поскольку любая машина или компьютер всегда является лишь продолжением человека, точнее было бы назвать это время эрой суперкоммуникаций.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEdv1GbekAakxXO8g/giphy.gif" height="180" width="1200"/> 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWgxb2ozanpjY2w2cG0zZ2JibnBtYjZ6em1hdHo1ajV1NHhkd25zYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5wWf7GZPPlIvA2DyR6o/giphy.gif" height="180" width="1200"/> 
 </div>
 
 
