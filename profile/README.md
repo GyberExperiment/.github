@@ -15,28 +15,11 @@
   </a>
 </div>
 
-<div align="center"> 
-  <p><strong>GyberExperiment</strong></p> 
-  <a href="https://github.com/GyberExperiment"> 
-    <img src="https://github-readme-stats.vercel.app/api/org?org=GyberExperiment&theme=radical" /> 
-  </a> 
-</div>
 
 
 
-## Статистика активности
 
-<div align="center">
-  <p><strong>TheMacroeconomicDao</strong></p>
-  <a href="https://github.com/TheMacroeconomicDao">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=TheMacroeconomicDao&theme=neon-dark&border_radius=8.5&card_width=600" />
-  </a>
-  
-  <p><strong>GyberExperiment</strong></p>
-  <a href="https://github.com/GyberExperiment">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=GyberExperiment&theme=neon-dark&border_radius=8.5&card_width=600" />
-  </a>
-</div>
+
 
 
 
