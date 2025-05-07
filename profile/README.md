@@ -17,96 +17,12 @@
 
 <div align="center"> 
   <p><strong>GyberExperiment</strong></p> 
-  <a href="https://git.io/streak-stats"> 
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=gyberexperiment&theme=neon-dark&border_radius=8.5&card_width=800" /> 
+  <a href="https://github.com/GyberExperiment"> 
+    <img src="https://github-readme-stats.vercel.app/api/org?org=GyberExperiment&theme=radical" /> 
   </a> 
 </div>
 
-# 👥 Все контрибьюторы наших проектов
 
-<div align="center">
-  <h2>TheMacroeconomicDao и GyberExperiment</h2>
-  
-  <!-- liquid-web-app-frontend -->
-  <a href="https://github.com/TheMacroeconomicDao/liquid-web-app-frontend/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/liquid-web-app-frontend" />
-  </a>
-  
-  <!-- White-Paper -->
-  <a href="https://github.com/TheMacroeconomicDao/White-Paper/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/White-Paper" />
-  </a>
-  
-  <!-- docs-of-experiment -->
-  <a href="https://github.com/TheMacroeconomicDao/docs-of-experiment/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/docs-of-experiment" />
-  </a>
-  
-  <!-- pswmeta-kingdom-bot -->
-  <a href="https://github.com/TheMacroeconomicDao/pswmeta-kingdom-bot/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/pswmeta-kingdom-bot" />
-  </a>
-  
-  <!-- pswmeta-kingdom-mini-app -->
-  <a href="https://github.com/TheMacroeconomicDao/pswmeta-kingdom-mini-app/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/pswmeta-kingdom-mini-app" />
-  </a>
-  
-  <!-- tg-mini-app-template -->
-  <a href="https://github.com/TheMacroeconomicDao/tg-mini-app-template/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/tg-mini-app-template" />
-  </a>
-  
-  <!-- coin-offering-landing-page -->
-  <a href="https://github.com/TheMacroeconomicDao/coin-offering-landing-page/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/coin-offering-landing-page" />
-  </a>
-  
-  <!-- hakaton-page -->
-  <a href="https://github.com/TheMacroeconomicDao/hakaton-page/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/hakaton-page" />
-  </a>
-  
-  <!-- blockchain -->
-  <a href="https://github.com/TheMacroeconomicDao/blockchain/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/blockchain" />
-  </a>
-  
-  <!-- gbr-nft-tickets -->
-  <a href="https://github.com/TheMacroeconomicDao/gbr-nft-tickets/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/gbr-nft-tickets" />
-  </a>
-  
-  <!-- gbr-burn-token -->
-  <a href="https://github.com/TheMacroeconomicDao/gbr-burn-token/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/gbr-burn-token" />
-  </a>
-  
-  <!-- gbr-swap-token-dapp -->
-  <a href="https://github.com/TheMacroeconomicDao/gbr-swap-token-dapp/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/gbr-swap-token-dapp" />
-  </a>
-  
-  <!-- gbr-swap-token -->
-  <a href="https://github.com/TheMacroeconomicDao/gbr-swap-token/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/gbr-swap-token" />
-  </a>
-  
-  <!-- chat-with-gpt-backend -->
-  <a href="https://github.com/TheMacroeconomicDao/chat-with-gpt-backend/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/chat-with-gpt-backend" />
-  </a>
-  
-  <!-- core-2 -->
-  <a href="https://github.com/TheMacroeconomicDao/core-2/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/core-2" />
-  </a>
-  
-  <!-- GyberExperiment репозитории -->
-  <a href="https://github.com/GyberExperiment/repo-name/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=GyberExperiment/repo-name" />
-  </a>
-</div>
 
 ## Статистика активности
 
