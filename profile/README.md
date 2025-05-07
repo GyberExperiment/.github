@@ -45,18 +45,86 @@
 - Обмениваемся опытом в различных областях IT-индустрии
 
 
-## 👥 Наши контрибьюторы
+# 👥 Контрибьюторы наших проектов
 
-<div align="center">
-  <a href="https://github.com/orgs/TheMacroeconomicDao/people">
-    <img src="https://contrib.rocks/image?org=TheMacroeconomicDao" />
-  </a>
-  
-  <p><strong>TheMacroeconomicDao</strong></p>
-  
-  <a href="https://github.com/orgs/GyberExperiment/people">
-    <img src="https://contrib.rocks/image?org=GyberExperiment" />
-  </a>
+## TheMacroeconomicDao
+
+### Активные репозитории
+
+#### liquid-web-app-frontend (TypeScript)
+<a href="https://github.com/TheMacroeconomicDao/liquid-web-app-frontend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/liquid-web-app-frontend" />
+</a>
+
+#### White-Paper (GNU GPL v2.0)
+<a href="https://github.com/TheMacroeconomicDao/White-Paper/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/White-Paper" />
+</a>
+
+#### docs-of-experiment
+<a href="https://github.com/TheMacroeconomicDao/docs-of-experiment/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/docs-of-experiment" />
+</a>
+
+#### pswmeta-kingdom-bot (Python)
+<a href="https://github.com/TheMacroeconomicDao/pswmeta-kingdom-bot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/pswmeta-kingdom-bot" />
+</a>
+
+#### pswmeta-kingdom-mini-app
+<a href="https://github.com/TheMacroeconomicDao/pswmeta-kingdom-mini-app/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/pswmeta-kingdom-mini-app" />
+</a>
+
+#### tg-mini-app-template (TypeScript)
+<a href="https://github.com/TheMacroeconomicDao/tg-mini-app-template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/tg-mini-app-template" />
+</a>
+
+#### coin-offering-landing-page (TypeScript)
+<a href="https://github.com/TheMacroeconomicDao/coin-offering-landing-page/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/coin-offering-landing-page" />
+</a>
+
+#### hakaton-page (Java)
+<a href="https://github.com/TheMacroeconomicDao/hakaton-page/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/hakaton-page" />
+</a>
+
+#### blockchain (Rust)
+<a href="https://github.com/TheMacroeconomicDao/blockchain/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/blockchain" />
+</a>
+
+#### gbr-nft-tickets (JavaScript)
+<a href="https://github.com/TheMacroeconomicDao/gbr-nft-tickets/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/gbr-nft-tickets" />
+</a>
+
+#### gbr-burn-token (JavaScript)
+<a href="https://github.com/TheMacroeconomicDao/gbr-burn-token/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/gbr-burn-token" />
+</a>
+
+#### gbr-swap-token-dapp (TypeScript)
+<a href="https://github.com/TheMacroeconomicDao/gbr-swap-token-dapp/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/gbr-swap-token-dapp" />
+</a>
+
+#### gbr-swap-token (JavaScript)
+<a href="https://github.com/TheMacroeconomicDao/gbr-swap-token/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/gbr-swap-token" />
+</a>
+
+#### chat-with-gpt-backend (Python)
+<a href="https://github.com/TheMacroeconomicDao/chat-with-gpt-backend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/chat-with-gpt-backend" />
+</a>
+
+#### core-2 (Core 2.0)
+<a href="https://github.com/TheMacroeconomicDao/core-2/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheMacroeconomicDao/core-2" />
+</a>
   
   <p><strong>GyberExperiment</strong></p>
 </div>
