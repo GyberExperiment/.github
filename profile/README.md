@@ -51,6 +51,12 @@
   <img src="https://media.giphy.com/media/d8iPm91TeShX4kHG69/giphy-downsized-large.gif" width="800"/> 
 </div>
 
+## 👥 Наши контрибьюторы
+
+<a href="https://github.com/themacroeconomicdao/repo-name/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=themacroeconomicdao/repo-name" />
+</a>
+
 ## 🌟 Почему стоит присоединиться к нам
 
 - Найдете команду, которая поможет в реализации проектов
