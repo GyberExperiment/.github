@@ -16,8 +16,7 @@
   <img src="https://media.giphy.com/media/3oEdv1GbekAakxXO8g/giphy.gif" height="180" width="1200"/> 
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themacroeconomicdao&theme=neon-dark&border_radius=8.5&card_width=600)](https://git.io/streak-stats)
-## 🔍 Чем мы занимаемся
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=themacroeconomicdao&show_icons=true&theme=radical)](https://github.com/themacroeconomicdao)## 🔍 Чем мы занимаемся
 
 - Создаем проекты с открытым исходным кодом
 - Исследуем актуальные технологии
