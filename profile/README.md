@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/3oEdv1GbekAakxXO8g/giphy.gif" height="180" width="1200"/> 
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themacroeconomicdao&theme=neon-dark&border_radius=8.5&card _width=600)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themacroeconomicdao&theme=neon-dark&border_radius=8.5&card width=600)](https://git.io/streak-stats)
 
 ## 🔍 Чем мы занимаемся
 
@@ -25,6 +25,23 @@
 - Помогаем друг другу реализовывать идеи
 - Предоставляем платформу для исследований и разработки
 - Обмениваемся опытом в различных областях IT-индустрии
+
+
+## 👥 Наши контрибьюторы
+
+<div align="center">
+  <a href="https://github.com/orgs/TheMacroeconomicDao/people">
+    <img src="https://contrib.rocks/image?org=TheMacroeconomicDao" />
+  </a>
+  
+  <p><strong>TheMacroeconomicDao</strong></p>
+  
+  <a href="https://github.com/orgs/GyberExperiment/people">
+    <img src="https://contrib.rocks/image?org=GyberExperiment" />
+  </a>
+  
+  <p><strong>GyberExperiment</strong></p>
+</div>
 
 ## 🛠️ Наш технологический стек
 
@@ -51,11 +68,7 @@
   <img src="https://media.giphy.com/media/d8iPm91TeShX4kHG69/giphy-downsized-large.gif" width="800"/> 
 </div>
 
-## 👥 Наши контрибьюторы
 
-<a href="https://github.com/themacroeconomicdao/repo-name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=themacroeconomicdao/repo-name" />
-</a>
 
 ## 🔥 Активность коммитов
 
