@@ -82,10 +82,12 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   
-  <a href="https://discord.gg/XuFSY2ESGe">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  <a href="https://t.me/HeadsHub">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram">
   </a>
 </div>
+
+
 
 ## 🤝 Как внести свой вклад
 
