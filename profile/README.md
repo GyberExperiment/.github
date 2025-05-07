@@ -1,4 +1,4 @@
-# 🚀 Gybernaty: Создаем будущее вместе!
+# 🚀 Gybernaty: Добро Пожаловать в Будущее!
 
 <div align="center">
   <img src="https://sun9-31.userapi.com/impg/-iRRU9522BX6DnuHPo39OoG76vopxGrQx1qFjA/Niuli_zEqNU.jpg?size=1280x910&quality=95&sign=c46165f9c5a2785c2b12f6d3ed6cee9e&type=album" height="700" width="1400"/> 
