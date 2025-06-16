@@ -1,4 +1,4 @@
-# 🚀 Gybernaty: Welcome to the Future!
+# 🚀 Welcome to the Future!
 
 <div align="center">
   
