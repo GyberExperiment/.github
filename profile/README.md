@@ -189,12 +189,23 @@
   
   <br>
   
-  <!-- Technology Proficiency Chart -->
-  <details>
-    <summary><b>📊 Technology Proficiency Breakdown</b></summary>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gybernaty&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&border_color=00f7ff" width="100%" />
-  </details>
+
+  
+</div>
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌟%20EXPERTISE%20LEVEL-ADVANCED-brightgreen?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🚀%20INNOVATION%20FOCUS-CUTTING%20EDGE-orange?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔥%20TECH%20STACK-FUTURE%20READY-red?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
+      </td>
+    </tr>
+  </table>
   
 </div>
 
@@ -204,80 +215,7 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  
-  <h3>🏆 Flagship Initiatives</h3>
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://via.placeholder.com/400x250/FF6B6B/FFFFFF?text=🔥+TECH+HY+ECOSYSTEM" alt="DeFi Platform" style="border-radius: 15px;" />
-        <h3>🔥 TECH HY Ecosystem</h3>
-        <p><strong>Enterprise LP Locking & Governance Platform</strong></p>
-        <p>Revolutionary DeFi platform on Binance Smart Chain with permanent LP locking and DAO governance</p>
-        <br>
-        <a href="#"><img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Visit%20Now-success?style=for-the-badge&logoColor=white&labelColor=1a1a1a" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/📖%20DOCS-Read%20More-blue?style=for-the-badge&logoColor=white&labelColor=1a1a1a" /></a>
-        <br><br>
-        <img src="https://img.shields.io/badge/Solidity-0.8.22-363636?style=flat-square&logo=solidity" />
-        <img src="https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/BSC-Mainnet-F3BA2F?style=flat-square&logo=binance" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://via.placeholder.com/400x250/4ECDC4/FFFFFF?text=🤖+AI+RESEARCH+HUB" alt="AI Platform" style="border-radius: 15px;" />
-        <h3>🤖 AI Research Hub</h3>
-        <p><strong>Next-Gen Machine Learning Platform</strong></p>
-        <p>Advanced AI models, neural networks, and machine learning solutions for real-world applications</p>
-        <br>
-        <a href="#"><img src="https://img.shields.io/badge/🔬%20EXPLORE-Research%20Hub-purple?style=for-the-badge&logoColor=white&labelColor=1a1a1a" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/📊%20MODELS-View%20Collection-orange?style=for-the-badge&logoColor=white&labelColor=1a1a1a" /></a>
-        <br><br>
-        <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/TensorFlow-2.15-FF6F00?style=flat-square&logo=tensorflow" />
-        <img src="https://img.shields.io/badge/PyTorch-2.1-EE4C2C?style=flat-square&logo=pytorch" />
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <!-- More Projects Expandable Section -->
-  <details>
-    <summary><b>🚀 View All Projects (20+ more)</b></summary>
-    <br>
-    <table>
-      <tr>
-        <td align="center" width="25%">
-          <img src="https://via.placeholder.com/200x120/9B59B6/FFFFFF?text=BLOCKCHAIN" alt="Blockchain" style="border-radius: 10px;" />
-          <h4>⛓️ Blockchain Tools</h4>
-          <p>Smart contract libraries and DeFi protocols</p>
-        </td>
-        <td align="center" width="25%">
-          <img src="https://via.placeholder.com/200x120/3498DB/FFFFFF?text=WEB3" alt="Web3" style="border-radius: 10px;" />
-          <h4>🌐 Web3 Solutions</h4>
-          <p>Decentralized applications and tools</p>
-        </td>
-        <td align="center" width="25%">
-          <img src="https://via.placeholder.com/200x120/E67E22/FFFFFF?text=IoT" alt="IoT" style="border-radius: 10px;" />
-          <h4>📡 IoT Platform</h4>
-          <p>Internet of Things connectivity solutions</p>
-        </td>
-        <td align="center" width="25%">
-          <img src="https://via.placeholder.com/200x120/27AE60/FFFFFF?text=CYBERSEC" alt="CyberSec" style="border-radius: 10px;" />
-          <h4>🔒 Cybersecurity</h4>
-          <p>Advanced security tools and frameworks</p>
-        </td>
-      </tr>
-    </table>
-  </details>
-  
-</div>
-
----
-
-## 👥 Community Struсture
+## 👥 Community Structure
 
 <div align="center">
   
@@ -292,9 +230,13 @@
           <br />
           <sub><b>🚀 Unit</b></sub>
           <br />
+          <sub>React/Next & TypeScript</sub>
           <sub>Blockchain & Backend</sub>
+          <sub>Smart Contracts & DeFi</sub>
+          <sub>Infrastructure & Security</sub>
+          <sub>Machine Learning & AI</sub>
           <br />
-          <img src="https://img.shields.io/badge/Rust-Expert-orange?style=flat-square" />
+          <img src="https://img.shields.io/badge/Level-June-orange?style=flat-square" />
         </a>
       </td>
       <td align="center" width="20%">
@@ -302,11 +244,15 @@
           <img src="https://github.com/identicons/defunkt.png" width="120px;" alt="Blockchain Expert" style="border-radius: 50%; border: 3px solid #FF6B6B;"/>
           <br />
           <br />
-          <sub><b>⛓️ Blockchain Architect</b></sub>
+          <sub><b>⛓️ DEV</b></sub>
           <br />
+          <sub>React/Next & TypeScript</sub>
+          <sub>Blockchain & Backend</sub>
           <sub>Smart Contracts & DeFi</sub>
+          <sub>Infrastructure & Security</sub>
+          <sub>Machine Learning & AI</sub>
           <br />
-          <img src="https://img.shields.io/badge/Solidity-Expert-blue?style=flat-square" />
+          <img src="https://img.shields.io/badge/Level-Midle-blue?style=flat-square" /
         </a>
       </td>
       <td align="center" width="20%">
@@ -314,11 +260,15 @@
           <img src="https://github.com/identicons/pjhyett.png" width="120px;" alt="Frontend Architect" style="border-radius: 50%; border: 3px solid #4ECDC4;"/>
           <br />
           <br />
-          <sub><b>🎨 Frontend Architect</b></sub>
+          <sub><b>🎨 LEAD-DEV</b></sub>
           <br />
-          <sub>React & TypeScript</sub>
+          <sub>React/Next & TypeScript</sub>
+          <sub>Blockchain & Backend</sub>
+          <sub>Smart Contracts & DeFi</sub>
+          <sub>Infrastructure & Security</sub>
+          <sub>Machine Learning & AI</sub>
           <br />
-          <img src="https://img.shields.io/badge/React-Expert-green?style=flat-square" />
+          <img src="https://img.shields.io/badge/Level-Midle+-green?style=flat-square" />
         </a>
       </td>
       <td align="center" width="20%">
@@ -326,11 +276,14 @@
           <img src="https://github.com/identicons/wycats.png" width="120px;" alt="DevOps Engineer" style="border-radius: 50%; border: 3px solid #9B59B6;"/>
           <br />
           <br />
-          <sub><b>🔧 DevOps Lead</b></sub>
+          <sub><b>🔧 ARC-DEV</b></sub>
           <br />
+          <sub>React/Next & TypeScript</sub>
+          <sub>Blockchain & Backend</sub>
+          <sub>Smart Contracts & DeFi</sub>
           <sub>Infrastructure & Security</sub>
-          <br />
-          <img src="https://img.shields.io/badge/AWS-Expert-yellow?style=flat-square" />
+          <sub>Machine Learning & AI</sub>        <br />
+          <img src="https://img.shields.io/badge/Level-Senier-red?style=flat-square" />
         </a>
       </td>
       <td align="center" width="20%">
@@ -338,25 +291,30 @@
           <img src="https://github.com/identicons/mojombo.png" width="120px;" alt="AI Researcher" style="border-radius: 50%; border: 3px solid #E74C3C;"/>
           <br />
           <br />
-          <sub><b>🤖 AI Researcher</b></sub>
+          <sub><b>🤖 CORE</b></sub>
           <br />
+          <sub>React/Next & TypeScript</sub>
+          <sub>Blockchain & Backend</sub>
+          <sub>Smart Contracts & DeFi</sub>
+          <sub>Infrastructure & Security</sub>
           <sub>Machine Learning & AI</sub>
           <br />
-          <img src="https://img.shields.io/badge/PyTorch-Expert-red?style=flat-square" />
+          <img src="https://img.shields.io/badge/Level-Theoretic-yellow?style=flat-square" />
         </a>
       </td>
     </tr>
   </table>
   
   <br>
+
+
   
-  <!-- Contributors Wall -->
-  <img src="https://contrib.rocks/image?repo=gybernaty/gybernaty&columns=20" alt="Contributors" style="border-radius: 15px;" />
   
 </div>
 
----
 
+
+---
 
 ## 📈 Development Roadmap 2025-2027
 
@@ -397,7 +355,7 @@
       <td align="center" width="33%">
         <h3>🌟 2025: Foundation Year</h3>
         <img src="https://img.shields.io/badge/STATUS-Active-brightgreen?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
-        <p><strong>Цели:</strong><br>
+        <p><strong>Goals:</strong><br>
         ✅ Platform v2.0 Launch<br>
         🚀 Community 5K+ Members<br>
         💎 DeFi Hub Integration<br>
@@ -407,7 +365,7 @@
       <td align="center" width="33%">
         <h3>⚡ 2026: Innovation Year</h3>
         <img src="https://img.shields.io/badge/STATUS-Planned-blue?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
-        <p><strong>Прорывы:</strong><br>
+        <p><strong>Breakthroughs:</strong><br>
         🌐 Cross-Chain Revolution<br>
         🔬 Quantum Computing Lab<br>
         🏢 Enterprise Adoption<br>
@@ -419,7 +377,7 @@
         <p></p>
         <p></p>
         <img src="https://img.shields.io/badge/STATUS-Vision-orange?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
-        <p><strong>Революция:</strong><br>
+        <p><strong>Revolution:</strong><br>
         🧠 Neural Network AI<br>
         🛸 Space Technology<br>
         🧬 Biotech Integration<br>
@@ -431,11 +389,8 @@
   </table>
   
   <br>
-  
-
 
 ---
-
 
 <div align="center">
   
@@ -471,11 +426,7 @@
     </tr>
   </table>
   
-  
-  
-  
 </div>
-
 
 ---
 
@@ -483,8 +434,6 @@
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Building%20Tomorrow%20Today&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" />
-  
- 
   
   <sub><b>🌟 Gybernaty © 2024 | Licensed under GPL | Made with ❤️ by Gybernaty, for Earlings</b></sub>
   
