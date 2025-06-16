@@ -22,12 +22,6 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/github/stars/gybernaty?style=for-the-badge&logo=github&logoColor=white&color=FFD700&labelColor=1a1a1a&label=⭐%20STARS" alt="GitHub Stars"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🎯%20CONTRIBUTORS-100%2B-success?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Contributors"/>
-      </td>
-      <td align="center">
         <img src="https://img.shields.io/badge/🚀%20PROJECTS-25%2B-blue?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Projects"/>
       </td>
       <td align="center">
