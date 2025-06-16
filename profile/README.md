@@ -63,21 +63,7 @@
           We are an <strong>open community of researchers and developers</strong> where ideas transform into tangible digital reality. Here you will find like-minded individuals capable of resonating with your ideas, amplifying their potential and accelerating the process of materializing intellectual constructs in the form of elegant code, revolutionary architectural solutions, and innovative approaches to solving even the most complex technological challenges of our time.
         </p>
         
-        <h3>🚀 Our Vision</h3>
-        <p align="left">
-          This is a union of people passionate about technology and striving for new discoveries, where each participant is simultaneously a student, a teacher, a creator, and a critic, creating a unique environment for the continuous evolution of collective intelligence capable of transcending the limitations of individual consciousness and reaching new heights of technological mastery!
-        </p>
-      </td>
-      <td width="40%">
-        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" />
-        <br><br>
-        <img src="https://img.shields.io/badge/🔬%20RESEARCH-Active-brightgreen?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
-        <br>
-        <img src="https://img.shields.io/badge/💡%20INNOVATION-24/7-orange?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
-        <br>
-        <img src="https://img.shields.io/badge/🤝%20COLLABORATION-Global-blue?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
-      </td>
-    </tr>
+ 
   </table>
 </div>
 
