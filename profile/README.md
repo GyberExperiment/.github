@@ -277,11 +277,11 @@
 
 ---
 
-## 👥 Community Stru
+## 👥 Community Struсture
 
 <div align="center">
   
-  <h3>🌟 Meet Our Brilliant Minds</h3>
+  <h2>🌟 Unit Types</h2>
   
   <table>
     <tr>
@@ -290,7 +290,7 @@
           <img src="https://github.com/identicons/jasonlong.png" width="120px;" alt="Lead Developer" style="border-radius: 50%; border: 3px solid #00F7FF;"/>
           <br />
           <br />
-          <sub><b>🚀 Lead Developer</b></sub>
+          <sub><b>🚀 Unit</b></sub>
           <br />
           <sub>Blockchain & Backend</sub>
           <br />
@@ -421,27 +421,27 @@
     <tr>
       <td align="center">
         <a href="https://medium.com/@themacroeconomicdao"> 
-          <img src="https://img.shields.io/badge/📝%20MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E&color=0FF7FF" alt="Medium"/> 
+          <img src="https://img.shields.io/badge/📝%20MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E&color=1a1a1a" alt="Medium"/> 
         </a>
       </td>
       <td align="center">
         <a href="https://t.me/HeadsHub"> 
-          <img src="https://img.shields.io/badge/💬%20TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=00F7FF" alt="Telegram"/> 
+          <img src="https://img.shields.io/badge/💬%20TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=1a1a1a" alt="Telegram"/> 
         </a>
       </td>
       <td align="center">
         <a href="https://gyber.org"> 
-          <img src="https://img.shields.io/badge/🌐%20WEBSITE-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=FF7139&color=00F7FF" alt="Website"/> 
+          <img src="https://img.shields.io/badge/🌐%20WEBSITE-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=FF7139&color=1a1a1a" alt="Website"/> 
         </a>
       </td>
       <td align="center">
         <a href="https://discord.gg/gybernaty"> 
-          <img src="https://img.shields.io/badge/🎮%20DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA&color=00F7FF" alt="Discord"/> 
+          <img src="https://img.shields.io/badge/🎮%20DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA&color=1a1a1a" alt="Discord"/> 
         </a>
       </td>
       <td align="center">
         <a href="https://twitter.com/gybernaty"> 
-          <img src="https://img.shields.io/badge/🐦%20TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=00F7FF" alt="Twitter"/> 
+          <img src="https://img.shields.io/badge/🐦%20TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1a1a1a" alt="Twitter"/> 
         </a>
       </td>
     </tr>
@@ -450,8 +450,8 @@
   <br>
   
   <!-- Real-time Communication Stats -->
-  <img src="https://img.shields.io/badge/📊%20ACTIVE%20MEMBERS-2%2C000%2B-success?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/🌍%20COUNTRIES-50%2B-blue?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/📊%20ACTIVE%20MEMBERS-2%1C000%2B-success?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/🌍%20COUNTRIES-20%2B-blue?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/💬%20DAILY%20MESSAGES-1%2C000%2B-purple?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
   
 </div>
