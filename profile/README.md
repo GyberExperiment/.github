@@ -93,7 +93,7 @@
         <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker" />
         <br><br>
         <img src="https://img.shields.io/badge/🚀%20DEPLOYS-1K%2B-orange?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
-        <br><small>Successful Deployments</small>
+        <br><small>Successful </small>
       </td>
       <td align="center" width="20%">
         <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" />
@@ -130,19 +130,19 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" height="180" style="border-radius: 15px;" />
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="180" style="border-radius: 15px;" />
         <h3>🚀 Open Source Innovation</h3>
         <p>Building revolutionary projects with transparent, collaborative development that pushes the boundaries of what's possible</p>
         <img src="https://img.shields.io/badge/STATUS-Active-brightgreen?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="250" height="180" style="border-radius: 15px;" />
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z3OGI5Y3Q5eTRibGx6N3BnbjZua2t0ZjdoM2p6N2F1MzJxM2FreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dVuyBgq2z5gVBkFtDc/giphy.gif" width="250" height="180" style="border-radius: 15px;" />
         <h3>🔬 Advanced Research</h3>
         <p>Exploring cutting-edge technologies, AI/ML solutions, and innovative approaches to complex problems</p>
         <img src="https://img.shields.io/badge/FOCUS-Bleeding%20Edge-red?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/3oriNZuNzeTbtJvKs8/giphy.gif" width="250" height="180" style="border-radius: 15px;" />
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" height="180" style="border-radius: 15px;" />
         <h3>🤝 Global Collaboration</h3>
         <p>Connecting brilliant minds worldwide to accelerate innovation and create impactful solutions</p>
         <img src="https://img.shields.io/badge/REACH-Worldwide-blue?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
@@ -277,7 +277,7 @@
 
 ---
 
-## 👥 Core Team
+## 👥 Community Stru
 
 <div align="center">
   
@@ -357,34 +357,6 @@
 
 ---
 
-## 🌟 Why Join Our Revolution?
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="200" height="150" style="border-radius: 15px;" />
-        <h3>🚀 Innovation at Scale</h3>
-        <p>Work on cutting-edge technologies that shape the future of humanity and push the boundaries of what's possible</p>
-        <img src="https://img.shields.io/badge/IMPACT-Global-brightgreen?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" height="150" style="border-radius: 15px;" />
-        <h3>🤝 Elite Network</h3>
-        <p>Join a network of world-class developers, researchers, and visionaries who are building tomorrow</p>
-        <img src="https://img.shields.io/badge/NETWORK-Elite-purple?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" height="150" style="border-radius: 15px;" />
-        <h3>💡 Exponential Growth</h3>
-        <p>Accelerate your skills with mentorship, collaboration, and access to cutting-edge resources</p>
-        <img src="https://img.shields.io/badge/GROWTH-Exponential-orange?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## 📈 Development Roadmap 2024
 
@@ -392,19 +364,19 @@
   
   ```mermaid
   gantt
-      title 🚀 Gybernaty Innovation Roadmap 2024
+      title 🚀 Gybernaty Innovation Roadmap 2025
       dateFormat YYYY-MM-DD
       section 🌟 Phase 1: Foundation
-      Community Expansion    :active, phase1a, 2024-01-01, 90d
+      Community Expansion    :active, phase1a, 2025-01-01, 90d
       Core Platform Launch   :phase1b, after phase1a, 60d
       section ⚡ Phase 2: Growth
-      DeFi Integration      :phase2a, 2024-04-01, 120d
+      DeFi Integration      :phase2a, 2025-04-01, 120d
       Mobile Applications   :phase2b, after phase2a, 90d
       section 🔥 Phase 3: Innovation
-      AI Research Hub       :phase3a, 2024-07-01, 180d
+      AI Research Hub       :phase3a, 2025-07-01, 180d
       Global Partnerships   :phase3b, after phase3a, 90d
       section 🌍 Phase 4: Scale
-      Enterprise Solutions  :phase4a, 2024-10-01, 120d
+      Enterprise Solutions  :phase4a, 2025-10-01, 120d
       IPO Preparation      :phase4b, after phase4a, 90d
   ```
   
@@ -449,7 +421,7 @@
     <tr>
       <td align="center">
         <a href="https://medium.com/@themacroeconomicdao"> 
-          <img src="https://img.shields.io/badge/📝%20MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E&color=00F7FF" alt="Medium"/> 
+          <img src="https://img.shields.io/badge/📝%20MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E&color=0FF7FF" alt="Medium"/> 
         </a>
       </td>
       <td align="center">
@@ -484,121 +456,6 @@
   
 </div>
 
----
-
-## 🤝 How to Contribute
-
-<div align="center">
-  
-  <h3>🚀 Join the Innovation</h3>
-  
-  <!-- Contribution Stats -->
-  <img src="https://contrib.rocks/image?repo=gybernaty/gybernaty&columns=15&max=100" alt="Top Contributors" style="border-radius: 15px;" />
-  
-  <br><br>
-  
-</div>
-
-### 🛠️ Quick Start Guide
-
-```bash
-# 🍴 1. Fork the repository
-git clone https://github.com/your-username/repo-name.git
-
-# 🌱 2. Create your feature branch
-git checkout -b feature/amazing-innovation
-
-# ✨ 3. Commit your changes
-git commit -m '🚀 Add: Revolutionary feature'
-
-# 📤 4. Push to the branch
-git push origin feature/amazing-innovation
-
-# 🔥 5. Open a Pull Request
-```
-
-### 🔧 Development Environment
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h4>🏗️ Frontend Setup</h4>
-        <div align="left">
-        
-```bash
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Run tests
-npm test
-
-# Build for production
-npm run build
-```
-        
-        </div>
-      </td>
-      <td align="center" width="50%">
-        <h4>⛓️ Blockchain Setup</h4>
-        <div align="left">
-        
-```bash
-# Install Hardhat
-npm install --save-dev hardhat
-
-# Compile contracts
-npx hardhat compile
-
-# Run tests
-npx hardhat test
-
-# Deploy to testnet
-npx hardhat run scripts/deploy.js
-```
-        
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🎯 Contribution Areas
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=js" width="50" />
-        <h4>💻 Code</h4>
-        <p>Frontend, Backend, Smart Contracts</p>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=figma" width="50" />
-        <h4>🎨 Design</h4>
-        <p>UI/UX, Graphics, Branding</p>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=markdown" width="50" />
-        <h4>📚 Docs</h4>
-        <p>Documentation, Tutorials, Guides</p>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=ai" width="50" />
-        <h4>🔬 Research</h4>
-        <p>AI/ML, Blockchain, Innovation</p>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=discord" width="50" />
-        <h4>🤝 Community</h4>
-        <p>Support, Moderation, Events</p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
