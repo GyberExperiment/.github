@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Hero Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:FF6B6B,100:4ECDC4&height=300&section=header&text=GYBERNATY&fontSize=90&fontAlignY=35&desc=Building%20the%20Future%20of%20Technology&descAlignY=55&descAlign=50&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:lalalala,100:llll&height=300&section=header&text=GYBERNATY&fontSize=90&fontAlignY=35&desc=Building%20the%20Future%20of%20Technology&descAlignY=55&descAlign=50&fontColor=fff&animation=fadeIn" />
   
  
   
